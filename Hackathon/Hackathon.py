@@ -1,5 +1,5 @@
 #Nick Almeder
-#New Student Stuff
+#There appears to be no way to upload an executeable file to github as of yet, so here's the raw. Download and run it locally.
 
 
 import graphics
